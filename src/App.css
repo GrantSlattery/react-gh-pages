@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css?family=Major+Mono+Display');
+
+
+.App {
+  text-align: center;
+font-family: 'Major Mono Display', cursive;
+ overflow: auto;
+
+
+}
+
+.App-logo {
+  height: 10vmin;
+  pointer-events: none;
+  margin-top: 5%;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 45s linear;
+  }
+}
+
+.App-header {
+  background-color: #202020;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+
+}
+
+.App-link {
+  color: lime;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+h1 {
+text-transform: uppercase;
+font-size: 40px;
+position: fixed;
+top: 0;
+color: white;
+}
+
+p {
+color: black;
+font-size: 20px;
+}
+
+.DigitalClock span {
+color: lime;
+font-size: 50px;
+}
+
+
+.footer a {
+text-decoration: none;
+color: lime;
+font-size: 18px;
+}
+
+.footer p {
+text-decoration: none;
+color: white;
+font-size: 18px;
+}
+
+.footer a:hover {
+opacity: 0.8;
+}
+
+.footer {
+color: white;
+background-color: black;
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+padding-top: 1%;
+
+}
