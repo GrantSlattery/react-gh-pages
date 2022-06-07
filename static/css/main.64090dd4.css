@@ -1,2 +1,102 @@
-@import url(https://fonts.googleapis.com/css?family=Major+Mono+Display);body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;margin:0}code{font-family:source-code-pro,Menlo,Monaco,Consolas,Courier New,monospace}.App{font-family:Major Mono Display,cursive;overflow:auto;text-align:center}.App-logo{height:10vmin;margin-top:5%;pointer-events:none}@media (prefers-reduced-motion:no-preference){.App-logo{-webkit-animation:App-logo-spin 45s linear infinite;animation:App-logo-spin 45s linear infinite}}.App-header{align-items:center;background-color:#202020;color:#fff;display:flex;flex-direction:column;font-size:calc(10px + 2vmin);justify-content:center;min-height:100vh}.App-link{color:lime}@-webkit-keyframes App-logo-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes App-logo-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}h1{color:#fff;font-size:40px;position:fixed;text-transform:uppercase;top:0}p{color:#000;font-size:20px}.DigitalClock span{color:lime;font-size:50px}.footer a{color:lime}.footer a,.footer p{font-size:18px;text-decoration:none}.footer p{color:#fff}.footer a:hover{opacity:.8}.footer{background-color:#000;bottom:0;color:#fff;left:0;padding-top:1%;position:fixed;width:100%}
+/* @import url(https://fonts.googleapis.com/css?family=Major+Mono+Display);body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;margin:0}code{font-family:source-code-pro,Menlo,Monaco,Consolas,Courier New,monospace}.App{font-family:Major Mono Display,cursive;overflow:auto;text-align:center}.App-logo{height:10vmin;margin-top:5%;pointer-events:none}@media (prefers-reduced-motion:no-preference){.App-logo{-webkit-animation:App-logo-spin 45s linear infinite;animation:App-logo-spin 45s linear infinite}}.App-header{align-items:center;background-color:#202020;color:#fff;display:flex;flex-direction:column;font-size:calc(10px + 2vmin);justify-content:center;min-height:100vh}.App-link{color:lime}@-webkit-keyframes App-logo-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes App-logo-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}h1{color:#fff;font-size:40px;position:fixed;text-transform:uppercase;top:0}p{color:#000;font-size:20px}.DigitalClock span{color:lime;font-size:50px}.footer a{color:lime}.footer a,.footer p{font-size:18px;text-decoration:none}.footer p{color:#fff}.footer a:hover{opacity:.8}.footer{background-color:#000;bottom:0;color:#fff;left:0;padding-top:1%;position:fixed;width:100%}*/
+/*# sourceMappingURL=main.64090dd4.css.map*/
+
+@import url(https://fonts.googleapis.com/css?family=Major+Mono+Display);
+body{
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+    font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+    margin:0;
+}
+code{
+    font-family:source-code-pro,Menlo,Monaco,Consolas,Courier New,monospace
+}
+.App{
+    font-family:Major Mono Display,cursive;
+    overflow:auto;
+    text-align:center;
+}
+.App-logo{
+    height:10vmin;
+    margin-top:5%;
+    margin-bottom:10%;
+    pointer-events:none;
+}
+@media (prefers-reduced-motion:no-preference){
+    .App-logo{
+        -webkit-animation:App-logo-spin 45s linear infinite;
+        animation:App-logo-spin 45s linear infinite;
+    }
+}
+.App-header{
+    align-items:center;
+    background-color:#202020;
+    color:#fff;
+    display:flex;
+    flex-direction:column;
+    font-size:calc(10px + 2vmin);
+    justify-content:center;
+    min-height:100vh;
+}
+.App-link{
+    color:lime
+}
+@-webkit-keyframes App-logo-spin{
+    0%{
+        -webkit-transform:rotate(0deg);
+        transform:rotate(0deg);
+    }
+    to{
+        -webkit-transform:rotate(1turn);
+        transform:rotate(1turn);
+    }
+}
+@keyframes App-logo-spin{
+    0%{
+        -webkit-transform:rotate(0deg);
+        transform:rotate(0deg);
+    }
+    to{
+        -webkit-transform:rotate(1turn);
+        transform:rotate(1turn);
+    }
+}
+h1{
+    color:#fff;
+    font-size:40px;
+    position:fixed;
+    text-transform:uppercase;
+    top:0;
+}
+p{
+    color:#000;
+    font-size:20px;
+}
+.DigitalClock span{
+    color:lime;
+    font-size:50px;
+    margin-top: 10%;
+}
+.footer a{
+    color:lime;
+}
+.footer a,.footer p{
+    font-size:18px;
+    text-decoration:none;
+}
+.footer p{
+    color:#fff;
+}
+.footer a:hover{
+    opacity:.8;
+}
+.footer{
+    background-color:#000;
+    bottom:0;
+    color:#fff;
+    left:0;
+    padding-top:1%;
+    position:fixed;
+    width:100%;
+}
 /*# sourceMappingURL=main.64090dd4.css.map*/
