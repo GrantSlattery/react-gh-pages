@@ -75,8 +75,12 @@ p{
 .DigitalClock span{
     color:lime;
     font-size:50px;
+}
+
+.DigitalClock {
     margin-top: 10%;
 }
+
 .footer a{
     color:lime;
 }
