@@ -64,7 +64,6 @@ code{
 h1{
     color:#fff;
     font-size:40px;
-    position:fixed;
     text-transform:uppercase;
     top:0;
 }
@@ -95,12 +94,10 @@ p{
     opacity:.8;
 }
 .footer{
-    background-color:#000;
     bottom:0;
     color:#fff;
     left:0;
     padding-top:1%;
-    position:fixed;
     width:100%;
 }
 /*# sourceMappingURL=main.64090dd4.css.map*/
