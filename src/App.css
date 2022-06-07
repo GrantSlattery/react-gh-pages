@@ -13,6 +13,7 @@ font-family: 'Major Mono Display', cursive;
   height: 10vmin;
   pointer-events: none;
   margin-top: 5%;
+  margin-bottom: 10%;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -62,6 +63,7 @@ font-size: 20px;
 .DigitalClock span {
 color: lime;
 font-size: 50px;
+margin-top: 10%;
 }
 
 
